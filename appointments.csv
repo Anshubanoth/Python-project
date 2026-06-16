@@ -1,0 +1,221 @@
+Date,Doctor,Specialty,Reason,Notes,Cost
+2024-01-01,Dr. Mark Thompson,Dentistry,Gum check,Prescribed medication for 2 weeks,175.03
+2024-01-02,Dr. Lisa Chen,Neurology,Dizziness,Lab tests ordered,291.38
+2024-01-04,Dr. Priya Nair,Dermatology,Eczema follow-up,Advised lifestyle changes,156.12
+2024-01-06,Dr. James Patel,Cardiology,Cholesterol check,Referred to specialist,353.72
+2024-01-07,Dr. Rachel Adams,Endocrinology,Hormone levels,Follow-up in 4 weeks,220.69
+2024-01-11,Dr. Priya Nair,Dermatology,Acne treatment,Lab tests ordered,181.56
+2024-01-14,Dr. James Patel,Cardiology,Heart palpitations,Lab tests ordered,373.37
+2024-01-14,Dr. Lisa Chen,Neurology,Dizziness,Continue current medication,271.4
+2024-01-17,Dr. Sarah Mitchell,General Practitioner,Annual checkup,No major concerns found,96.29
+2024-01-17,Dr. Omar Hassan,Gastroenterology,Bloating issues,Referred to specialist,189.27
+2024-01-19,Dr. James Patel,Cardiology,ECG review,Referred to specialist,399.49
+2024-01-23,Dr. Rachel Adams,Endocrinology,Diabetes review,X-ray scheduled,289.58
+2024-01-24,Dr. Kevin Brown,Orthopedics,Fracture follow-up,Follow-up in 4 weeks,321.06
+2024-01-27,Dr. James Patel,Cardiology,Heart palpitations,Referred to specialist,208.82
+2024-01-29,Dr. Lisa Chen,Neurology,Numbness in hands,Advised lifestyle changes,277.52
+2024-01-30,Dr. Sarah Mitchell,General Practitioner,Fatigue and weakness,Advised lifestyle changes,84.0
+2024-02-03,Dr. Rachel Adams,Endocrinology,Hormone levels,Follow-up in 4 weeks,240.78
+2024-02-07,Dr. Sarah Mitchell,General Practitioner,Routine physical,Blood work required,149.89
+2024-02-08,Dr. Priya Nair,Dermatology,Acne treatment,Continue current medication,245.75
+2024-02-10,Dr. Rachel Adams,Endocrinology,Weight management,No major concerns found,229.67
+2024-02-11,Dr. Rachel Adams,Endocrinology,Weight management,Blood work required,233.19
+2024-02-16,Dr. Sarah Mitchell,General Practitioner,Annual checkup,Lab tests ordered,123.92
+2024-02-16,Dr. Rachel Adams,Endocrinology,Diabetes review,Follow-up in 4 weeks,222.11
+2024-02-21,Dr. Rachel Adams,Endocrinology,Blood sugar monitoring,Monitor symptoms at home,249.0
+2024-02-21,Dr. James Patel,Cardiology,Cholesterol check,No major concerns found,301.18
+2024-02-24,Dr. Lisa Chen,Neurology,Dizziness,Blood work required,235.8
+2024-02-24,Dr. Priya Nair,Dermatology,Mole check,Referred to specialist,198.63
+2024-02-28,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Referred to specialist,303.38
+2024-03-01,Dr. Priya Nair,Dermatology,Eczema follow-up,Referred to specialist,186.15
+2024-03-03,Dr. Mark Thompson,Dentistry,Tooth pain,Monitor symptoms at home,367.03
+2024-03-04,Dr. Lisa Chen,Neurology,Dizziness,Referred to specialist,320.04
+2024-03-05,Dr. Lisa Chen,Neurology,Migraine consultation,Prescribed medication for 2 weeks,299.6
+2024-03-05,Dr. Omar Hassan,Gastroenterology,Acid reflux,Monitor symptoms at home,193.96
+2024-03-08,Dr. Lisa Chen,Neurology,Sleep disorder,Advised lifestyle changes,367.22
+2024-03-08,Dr. Omar Hassan,Gastroenterology,Acid reflux,No major concerns found,231.73
+2024-03-12,Dr. James Patel,Cardiology,Cholesterol check,Follow-up in 4 weeks,318.1
+2024-03-16,Dr. Sarah Mitchell,General Practitioner,Annual checkup,Continue current medication,95.32
+2024-03-21,Dr. Mark Thompson,Dentistry,Wisdom tooth review,Referred to specialist,344.67
+2024-03-25,Dr. Lisa Chen,Neurology,Dizziness,Blood work required,276.16
+2024-03-25,Dr. Rachel Adams,Endocrinology,Diabetes review,Continue current medication,197.13
+2024-03-25,Dr. Lisa Chen,Neurology,Dizziness,Blood work required,365.81
+2024-03-26,Dr. James Patel,Cardiology,ECG review,Referred to specialist,221.62
+2024-03-29,Dr. James Patel,Cardiology,ECG review,Prescribed medication for 2 weeks,281.7
+2024-03-30,Dr. Mark Thompson,Dentistry,Wisdom tooth review,Monitor symptoms at home,466.43
+2024-03-31,Dr. Rachel Adams,Endocrinology,Diabetes review,Lab tests ordered,263.12
+2024-04-02,Dr. Rachel Adams,Endocrinology,Hormone levels,Follow-up in 4 weeks,225.8
+2024-04-03,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,Continue current medication,102.91
+2024-04-04,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,Monitor symptoms at home,87.99
+2024-04-07,Dr. James Patel,Cardiology,Chest pain consultation,Continue current medication,270.86
+2024-04-07,Dr. Lisa Chen,Neurology,Headache follow-up,Follow-up in 4 weeks,362.61
+2024-04-11,Dr. James Patel,Cardiology,Cholesterol check,No major concerns found,220.38
+2024-04-16,Dr. Kevin Brown,Orthopedics,Fracture follow-up,Follow-up in 4 weeks,181.41
+2024-04-18,Dr. Kevin Brown,Orthopedics,Fracture follow-up,Continue current medication,349.03
+2024-04-19,Dr. Mark Thompson,Dentistry,Tooth pain,Follow-up in 4 weeks,213.51
+2024-04-20,Dr. Omar Hassan,Gastroenterology,Acid reflux,Follow-up in 4 weeks,233.19
+2024-04-23,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Advised lifestyle changes,211.04
+2024-04-23,Dr. Rachel Adams,Endocrinology,Thyroid check,Referred to specialist,252.95
+2024-04-25,Dr. Kevin Brown,Orthopedics,Back pain consultation,Prescribed medication for 2 weeks,159.24
+2024-04-26,Dr. Kevin Brown,Orthopedics,Knee pain,No major concerns found,229.69
+2024-04-27,Dr. Sarah Mitchell,General Practitioner,Fatigue and weakness,Referred to specialist,120.34
+2024-05-05,Dr. Priya Nair,Dermatology,Eczema follow-up,Continue current medication,155.09
+2024-05-05,Dr. James Patel,Cardiology,Blood pressure follow-up,Monitor symptoms at home,248.77
+2024-05-05,Dr. Rachel Adams,Endocrinology,Weight management,Lab tests ordered,183.8
+2024-05-06,Dr. Kevin Brown,Orthopedics,Knee pain,Advised lifestyle changes,154.21
+2024-05-07,Dr. James Patel,Cardiology,Heart palpitations,X-ray scheduled,219.58
+2024-05-08,Dr. Kevin Brown,Orthopedics,Knee pain,No major concerns found,213.11
+2024-05-12,Dr. Omar Hassan,Gastroenterology,IBS follow-up,Blood work required,278.17
+2024-05-13,Dr. Kevin Brown,Orthopedics,Fracture follow-up,No major concerns found,203.12
+2024-05-13,Dr. Priya Nair,Dermatology,Skin allergy,Referred to specialist,124.97
+2024-05-15,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Follow-up in 4 weeks,258.91
+2024-05-15,Dr. Omar Hassan,Gastroenterology,Digestive issues,Continue current medication,270.98
+2024-05-16,Dr. James Patel,Cardiology,Cholesterol check,Lab tests ordered,306.83
+2024-05-19,Dr. Mark Thompson,Dentistry,Gum check,Follow-up in 4 weeks,339.21
+2024-05-19,Dr. Rachel Adams,Endocrinology,Hormone levels,Monitor symptoms at home,194.12
+2024-05-21,Dr. Mark Thompson,Dentistry,Tooth pain,Referred to specialist,275.95
+2024-05-21,Dr. Sarah Mitchell,General Practitioner,Flu symptoms,No major concerns found,85.99
+2024-05-21,Dr. Lisa Chen,Neurology,Migraine consultation,No major concerns found,253.32
+2024-05-22,Dr. James Patel,Cardiology,Blood pressure follow-up,Advised lifestyle changes,328.3
+2024-05-24,Dr. Lisa Chen,Neurology,Dizziness,Blood work required,379.8
+2024-05-26,Dr. Kevin Brown,Orthopedics,Joint pain,Advised lifestyle changes,193.8
+2024-05-31,Dr. Sarah Mitchell,General Practitioner,Fatigue and weakness,Continue current medication,99.21
+2024-06-01,Dr. Rachel Adams,Endocrinology,Hormone levels,X-ray scheduled,264.65
+2024-06-03,Dr. James Patel,Cardiology,Cholesterol check,Prescribed medication for 2 weeks,269.44
+2024-06-03,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Monitor symptoms at home,171.33
+2024-06-04,Dr. James Patel,Cardiology,ECG review,Follow-up in 4 weeks,311.61
+2024-06-14,Dr. James Patel,Cardiology,Heart palpitations,X-ray scheduled,364.99
+2024-06-15,Dr. Priya Nair,Dermatology,Eczema follow-up,No major concerns found,166.13
+2024-06-16,Dr. Rachel Adams,Endocrinology,Blood sugar monitoring,X-ray scheduled,177.82
+2024-06-17,Dr. Rachel Adams,Endocrinology,Hormone levels,Referred to specialist,252.76
+2024-06-17,Dr. Rachel Adams,Endocrinology,Blood sugar monitoring,Monitor symptoms at home,282.13
+2024-06-18,Dr. James Patel,Cardiology,Cholesterol check,No major concerns found,255.7
+2024-06-18,Dr. Mark Thompson,Dentistry,Gum check,Prescribed medication for 2 weeks,182.73
+2024-06-19,Dr. Priya Nair,Dermatology,Mole check,Lab tests ordered,216.36
+2024-06-19,Dr. Rachel Adams,Endocrinology,Thyroid check,Referred to specialist,182.29
+2024-06-19,Dr. Rachel Adams,Endocrinology,Hormone levels,Advised lifestyle changes,281.74
+2024-06-22,Dr. James Patel,Cardiology,ECG review,No major concerns found,238.04
+2024-06-23,Dr. James Patel,Cardiology,Blood pressure follow-up,Continue current medication,231.63
+2024-06-24,Dr. Kevin Brown,Orthopedics,Fracture follow-up,X-ray scheduled,247.71
+2024-07-02,Dr. Omar Hassan,Gastroenterology,Digestive issues,Referred to specialist,293.0
+2024-07-03,Dr. Priya Nair,Dermatology,Mole check,Prescribed medication for 2 weeks,212.04
+2024-07-04,Dr. Lisa Chen,Neurology,Headache follow-up,Prescribed medication for 2 weeks,243.36
+2024-07-04,Dr. Mark Thompson,Dentistry,Tooth pain,Continue current medication,170.45
+2024-07-04,Dr. Mark Thompson,Dentistry,Gum check,Prescribed medication for 2 weeks,181.42
+2024-07-05,Dr. Priya Nair,Dermatology,Mole check,Advised lifestyle changes,147.24
+2024-07-05,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,No major concerns found,127.74
+2024-07-05,Dr. Priya Nair,Dermatology,Skin rash,Referred to specialist,162.47
+2024-07-06,Dr. Lisa Chen,Neurology,Headache follow-up,Referred to specialist,364.53
+2024-07-07,Dr. Mark Thompson,Dentistry,Wisdom tooth review,X-ray scheduled,237.5
+2024-07-10,Dr. Priya Nair,Dermatology,Skin allergy,X-ray scheduled,239.4
+2024-07-14,Dr. Rachel Adams,Endocrinology,Thyroid check,Monitor symptoms at home,295.08
+2024-07-14,Dr. Omar Hassan,Gastroenterology,Digestive issues,Referred to specialist,318.98
+2024-07-23,Dr. Omar Hassan,Gastroenterology,Stomach pain,Lab tests ordered,251.33
+2024-07-23,Dr. Omar Hassan,Gastroenterology,Acid reflux,Follow-up in 4 weeks,302.79
+2024-07-24,Dr. Sarah Mitchell,General Practitioner,Routine physical,Follow-up in 4 weeks,102.02
+2024-07-26,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,Referred to specialist,94.71
+2024-07-26,Dr. Priya Nair,Dermatology,Eczema follow-up,Lab tests ordered,247.49
+2024-07-27,Dr. Priya Nair,Dermatology,Acne treatment,Lab tests ordered,246.91
+2024-07-27,Dr. Mark Thompson,Dentistry,Wisdom tooth review,No major concerns found,376.24
+2024-07-27,Dr. James Patel,Cardiology,ECG review,Follow-up in 4 weeks,292.29
+2024-07-28,Dr. Omar Hassan,Gastroenterology,IBS follow-up,Follow-up in 4 weeks,300.08
+2024-07-29,Dr. Mark Thompson,Dentistry,Routine cleaning,Follow-up in 4 weeks,124.25
+2024-07-29,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,Monitor symptoms at home,129.37
+2024-07-31,Dr. Omar Hassan,Gastroenterology,Digestive issues,Referred to specialist,294.88
+2024-07-31,Dr. Priya Nair,Dermatology,Acne treatment,Lab tests ordered,222.25
+2024-08-01,Dr. Kevin Brown,Orthopedics,Joint pain,Continue current medication,240.1
+2024-08-03,Dr. Rachel Adams,Endocrinology,Thyroid check,Blood work required,239.67
+2024-08-03,Dr. Rachel Adams,Endocrinology,Weight management,Prescribed medication for 2 weeks,279.94
+2024-08-03,Dr. Lisa Chen,Neurology,Migraine consultation,Monitor symptoms at home,203.49
+2024-08-07,Dr. Omar Hassan,Gastroenterology,Acid reflux,X-ray scheduled,270.66
+2024-08-09,Dr. Omar Hassan,Gastroenterology,Digestive issues,Referred to specialist,183.62
+2024-08-12,Dr. James Patel,Cardiology,Heart palpitations,Referred to specialist,339.95
+2024-08-14,Dr. Lisa Chen,Neurology,Dizziness,Continue current medication,254.97
+2024-08-17,Dr. Priya Nair,Dermatology,Eczema follow-up,Lab tests ordered,156.21
+2024-08-20,Dr. Lisa Chen,Neurology,Sleep disorder,X-ray scheduled,319.14
+2024-08-20,Dr. Omar Hassan,Gastroenterology,IBS follow-up,Continue current medication,218.96
+2024-08-21,Dr. Sarah Mitchell,General Practitioner,Fatigue and weakness,Lab tests ordered,108.7
+2024-08-23,Dr. James Patel,Cardiology,Heart palpitations,Follow-up in 4 weeks,310.41
+2024-08-23,Dr. Lisa Chen,Neurology,Migraine consultation,Monitor symptoms at home,362.22
+2024-08-25,Dr. Rachel Adams,Endocrinology,Blood sugar monitoring,Prescribed medication for 2 weeks,229.2
+2024-08-26,Dr. Rachel Adams,Endocrinology,Weight management,Referred to specialist,205.12
+2024-08-31,Dr. James Patel,Cardiology,Heart palpitations,Continue current medication,377.23
+2024-08-31,Dr. Mark Thompson,Dentistry,Cavity filling,No major concerns found,435.95
+2024-09-03,Dr. Lisa Chen,Neurology,Numbness in hands,Follow-up in 4 weeks,284.3
+2024-09-05,Dr. Kevin Brown,Orthopedics,Joint pain,Lab tests ordered,294.67
+2024-09-05,Dr. Mark Thompson,Dentistry,Tooth pain,Continue current medication,460.98
+2024-09-05,Dr. Sarah Mitchell,General Practitioner,Routine physical,Advised lifestyle changes,126.82
+2024-09-05,Dr. James Patel,Cardiology,Chest pain consultation,Blood work required,359.86
+2024-09-06,Dr. Priya Nair,Dermatology,Acne treatment,Referred to specialist,148.3
+2024-09-07,Dr. Priya Nair,Dermatology,Eczema follow-up,X-ray scheduled,182.96
+2024-09-15,Dr. Rachel Adams,Endocrinology,Weight management,Monitor symptoms at home,285.61
+2024-09-17,Dr. James Patel,Cardiology,ECG review,Follow-up in 4 weeks,319.01
+2024-09-17,Dr. Priya Nair,Dermatology,Skin rash,Referred to specialist,220.45
+2024-09-18,Dr. James Patel,Cardiology,Heart palpitations,Blood work required,238.02
+2024-09-24,Dr. Lisa Chen,Neurology,Dizziness,X-ray scheduled,339.44
+2024-09-29,Dr. Priya Nair,Dermatology,Acne treatment,Monitor symptoms at home,243.09
+2024-09-30,Dr. Sarah Mitchell,General Practitioner,Routine physical,Blood work required,119.51
+2024-10-01,Dr. Priya Nair,Dermatology,Acne treatment,No major concerns found,216.02
+2024-10-02,Dr. Kevin Brown,Orthopedics,Fracture follow-up,Continue current medication,163.99
+2024-10-03,Dr. James Patel,Cardiology,ECG review,Lab tests ordered,246.25
+2024-10-03,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,No major concerns found,125.51
+2024-10-06,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,No major concerns found,204.59
+2024-10-08,Dr. Omar Hassan,Gastroenterology,IBS follow-up,Monitor symptoms at home,217.93
+2024-10-08,Dr. Priya Nair,Dermatology,Mole check,Monitor symptoms at home,234.51
+2024-10-09,Dr. Rachel Adams,Endocrinology,Weight management,Prescribed medication for 2 weeks,175.66
+2024-10-09,Dr. Priya Nair,Dermatology,Eczema follow-up,No major concerns found,239.84
+2024-10-10,Dr. Kevin Brown,Orthopedics,Joint pain,No major concerns found,151.44
+2024-10-12,Dr. Omar Hassan,Gastroenterology,Acid reflux,Continue current medication,181.95
+2024-10-13,Dr. Omar Hassan,Gastroenterology,Bloating issues,Blood work required,294.1
+2024-10-14,Dr. Lisa Chen,Neurology,Dizziness,Continue current medication,361.61
+2024-10-16,Dr. Sarah Mitchell,General Practitioner,Flu symptoms,Monitor symptoms at home,138.3
+2024-10-17,Dr. Omar Hassan,Gastroenterology,Stomach pain,Monitor symptoms at home,235.39
+2024-10-17,Dr. James Patel,Cardiology,Chest pain consultation,Monitor symptoms at home,363.2
+2024-10-18,Dr. Kevin Brown,Orthopedics,Joint pain,Blood work required,157.95
+2024-10-19,Dr. Mark Thompson,Dentistry,Tooth pain,Monitor symptoms at home,423.0
+2024-10-20,Dr. Lisa Chen,Neurology,Sleep disorder,Monitor symptoms at home,279.28
+2024-10-21,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Monitor symptoms at home,229.93
+2024-10-21,Dr. Rachel Adams,Endocrinology,Hormone levels,Prescribed medication for 2 weeks,291.98
+2024-10-23,Dr. Omar Hassan,Gastroenterology,Bloating issues,Monitor symptoms at home,241.9
+2024-10-25,Dr. Priya Nair,Dermatology,Eczema follow-up,Lab tests ordered,125.44
+2024-10-25,Dr. Priya Nair,Dermatology,Acne treatment,Monitor symptoms at home,202.93
+2024-10-26,Dr. Mark Thompson,Dentistry,Wisdom tooth review,X-ray scheduled,162.97
+2024-10-27,Dr. Lisa Chen,Neurology,Sleep disorder,Referred to specialist,282.23
+2024-11-01,Dr. Mark Thompson,Dentistry,Wisdom tooth review,Referred to specialist,488.43
+2024-11-01,Dr. Rachel Adams,Endocrinology,Blood sugar monitoring,Advised lifestyle changes,221.1
+2024-11-02,Dr. Omar Hassan,Gastroenterology,Bloating issues,Prescribed medication for 2 weeks,195.66
+2024-11-04,Dr. Sarah Mitchell,General Practitioner,Flu symptoms,No major concerns found,130.12
+2024-11-13,Dr. Sarah Mitchell,General Practitioner,Flu symptoms,Follow-up in 4 weeks,146.33
+2024-11-17,Dr. Omar Hassan,Gastroenterology,Digestive issues,No major concerns found,278.64
+2024-11-23,Dr. James Patel,Cardiology,Chest pain consultation,Referred to specialist,248.98
+2024-11-23,Dr. Kevin Brown,Orthopedics,Fracture follow-up,Prescribed medication for 2 weeks,195.81
+2024-11-25,Dr. Mark Thompson,Dentistry,Tooth pain,Referred to specialist,155.85
+2024-11-26,Dr. Mark Thompson,Dentistry,Gum check,Prescribed medication for 2 weeks,137.22
+2024-11-26,Dr. Sarah Mitchell,General Practitioner,Blood pressure review,Monitor symptoms at home,82.34
+2024-11-27,Dr. Priya Nair,Dermatology,Mole check,Lab tests ordered,129.28
+2024-11-28,Dr. Omar Hassan,Gastroenterology,Bloating issues,X-ray scheduled,243.21
+2024-11-29,Dr. Sarah Mitchell,General Practitioner,Annual checkup,No major concerns found,91.64
+2024-11-29,Dr. Sarah Mitchell,General Practitioner,Annual checkup,No major concerns found,93.96
+2024-11-30,Dr. Sarah Mitchell,General Practitioner,Fatigue and weakness,X-ray scheduled,100.96
+2024-12-01,Dr. Priya Nair,Dermatology,Skin rash,Monitor symptoms at home,221.6
+2024-12-05,Dr. James Patel,Cardiology,ECG review,Referred to specialist,223.09
+2024-12-05,Dr. Omar Hassan,Gastroenterology,Acid reflux,No major concerns found,274.19
+2024-12-06,Dr. Omar Hassan,Gastroenterology,Digestive issues,Advised lifestyle changes,272.87
+2024-12-07,Dr. James Patel,Cardiology,Blood pressure follow-up,X-ray scheduled,376.83
+2024-12-11,Dr. Kevin Brown,Orthopedics,Shoulder stiffness,Follow-up in 4 weeks,338.32
+2024-12-12,Dr. Priya Nair,Dermatology,Skin rash,Monitor symptoms at home,242.88
+2024-12-14,Dr. Rachel Adams,Endocrinology,Weight management,Follow-up in 4 weeks,213.87
+2024-12-17,Dr. Sarah Mitchell,General Practitioner,Fever and cold,Lab tests ordered,136.78
+2024-12-18,Dr. Mark Thompson,Dentistry,Cavity filling,Prescribed medication for 2 weeks,192.59
+2024-12-19,Dr. Priya Nair,Dermatology,Skin allergy,Prescribed medication for 2 weeks,228.5
+2024-12-21,Dr. Priya Nair,Dermatology,Acne treatment,Follow-up in 4 weeks,173.93
+2024-12-21,Dr. Lisa Chen,Neurology,Migraine consultation,Prescribed medication for 2 weeks,258.39
+2024-12-22,Dr. Mark Thompson,Dentistry,Routine cleaning,X-ray scheduled,199.68
+2024-12-23,Dr. Priya Nair,Dermatology,Eczema follow-up,Follow-up in 4 weeks,233.45
+2024-12-23,Dr. Kevin Brown,Orthopedics,Joint pain,Continue current medication,196.71
+2024-12-25,Dr. Rachel Adams,Endocrinology,Thyroid check,Monitor symptoms at home,242.5
+2024-12-25,Dr. James Patel,Cardiology,Heart palpitations,Prescribed medication for 2 weeks,371.72
+2024-12-27,Dr. Lisa Chen,Neurology,Sleep disorder,Follow-up in 4 weeks,323.73
+2024-12-28,Dr. Sarah Mitchell,General Practitioner,Fever and cold,Follow-up in 4 weeks,143.38
+2024-12-29,Dr. Priya Nair,Dermatology,Mole check,X-ray scheduled,121.78
+2024-12-31,Dr. Lisa Chen,Neurology,Headache follow-up,Referred to specialist,260.45
